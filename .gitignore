@@ -2,7 +2,17 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,macos,vim
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,windows,macos,vim
 
-### macOS ###
+# Compiled site
+_site
+.jekyll-cache/
+
+# Sass garbage
+.sass-cache
+
+# Bundler
+.bundle/
+vendor/
+
 # General
 .DS_Store
 .AppleDouble
