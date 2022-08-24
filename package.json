@@ -1,0 +1,20 @@
+{
+  "name": "inhwalee.github.io",
+  "version": "1.0.0",
+  "description": "A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inhwalee/inhwalee.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inhwalee/inhwalee.github.io/issues"
+  },
+  "homepage": "https://github.com/inhwalee/inhwalee.github.io#readme"
+}
