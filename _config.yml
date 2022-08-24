@@ -57,8 +57,8 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: projects
+    desc: "프로젝트 회고"
 
 # Social icons and sharing options
 #
