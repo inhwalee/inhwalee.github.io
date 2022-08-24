@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 📝 Posts
-permalink: /posts/
+title: 👩‍💻 Projects
+permalink: /projects/
 main_nav: true
 ---
 
